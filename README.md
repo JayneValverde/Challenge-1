@@ -33,7 +33,7 @@ A starter code was provided in a fodler which was modified to complete the Chall
 
 *Changed all non-semantic elements to semantic elements to clearly defines its content. 
 
-*Alt attributes were added to meet the requirements of web accessibility. 
+*Alt attributes were added to all images to meet the requirements of web accessibility. 
 
 *Cleaned up unnecessary class selectors by using the same class selectors for elements that shared the same attributes. 
 
